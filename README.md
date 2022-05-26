@@ -1,3 +1,26 @@
+Author : Abhijit Nagargoje
+
+IDE: Jupyter Notebook
+
+Language: Python 3
+
+Libraries used : Pandas ,Beautifulsoup,
+
+Problem Statement:
+
+About Company:
+
+Hi-tech company wants to manufacture  laptops and sale them on e-commerce websites, as company is starting their buissness in india & They are new in tech market.
+
+Problem:
+
+Company  want to know how to increase their sale and beat their competitors. How to manufacture a best laptop by specifications like , RAM , ROM , Display , Size , Graphics , Operating System. so they want to know old laptops Brand name , Generation , Ratings , Reviews , Stars , Current Prize , MRP & Processor
+
+
+
+
+
+
 # Web_Scraping_on_Flipkart
 
 What is Web Scraping?
